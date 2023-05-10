@@ -14,6 +14,7 @@
   border: none;
   color: white;
   width: 60px;
+  padding: 10 18px;
   font-size: 0.8rem;
 }
 
@@ -37,6 +38,7 @@
 }
 
 .imgButton {
+  padding: 10 18px;
   margin-top: 5px;
   border-radius: 10px;
   background-color: purple;
